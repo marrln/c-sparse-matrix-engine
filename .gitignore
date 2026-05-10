@@ -1,6 +1,10 @@
 # vscode
 .vscode/
 
+# Compiled object files, static and dynamic libraries, executable files
+build/
+bin/
+
 # Prerequisites
 *.d
 
